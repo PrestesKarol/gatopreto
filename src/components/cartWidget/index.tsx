@@ -1,10 +1,10 @@
 
-import { FaShoppingCart } from 'react-icons/fa'; // Importe o ícone do carrinho
+import { FaShoppingCart } from 'react-icons/fa'; 
 
 function CartWidget() {
   return (
     <div>
-      <FaShoppingCart size={24} /> {/* Use o ícone do carrinho com tamanho 24 */}
+      <FaShoppingCart size={24} /> {}
     </div>
   );
 }
