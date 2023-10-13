@@ -6,7 +6,8 @@
   }
 
 .HeroWrapper {
-    padding: 50px;
+    padding: 40px;
+    margin: auto;
   }
 
   .slick-slide img {

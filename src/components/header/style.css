@@ -23,6 +23,8 @@
     align-items: center; 
     flex: 1; 
     justify-content: center; 
+    font-weight: bold;
+    font-size: 20px
   }
   
   #menu-h ul li img {

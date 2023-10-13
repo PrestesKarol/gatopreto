@@ -1,0 +1,34 @@
+.item-card {
+    background-color: #F9A8C9; 
+    border: 1px solid #F9A8C9;
+    border-radius: 5px;
+    padding: 5px;
+    width: 360px;
+    height: 430px;
+    margin: 10px;
+    display: inline-block;
+    overflow: hidden; 
+    
+  }
+  
+  .item {
+    background-color: #ffffff; 
+    padding: 10px;
+    text-align: center;
+  }
+
+  .item img {
+    max-width: 80%;
+  }
+
+  .item title {
+    font-size: 1rem; 
+    margin-bottom: 10px;
+  }
+  
+  .item-description {
+    font-size: 0.8rem; 
+    white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  }

@@ -1,0 +1,7 @@
+.card-item {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 8px;
+    width: 250px;
+    display: inline-block;
+  }
